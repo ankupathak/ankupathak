@@ -47,5 +47,5 @@ and exploring new things.
   ST.Columbus School
 
   2014-2015
-  ###Secondary Stage of Education
+  ### Secondary Stage of Education
   Army Public School Bolarum
