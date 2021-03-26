@@ -49,3 +49,9 @@ and exploring new things.
   2014-2015
   ### Secondary Stage of Education
   Army Public School Bolarum
+
+ # How to reach me 
+ [Linkedin](https://www.linkedin.com/in/anku-pathak-b82710194/ "Github home")
+ [Facebook](https://www.facebook.com/profile.php?id=100005592196498 "Github home")
+ [Instagram](https://www.instagram.com/the_best_ever_me/ "Github home")
+ [Portfolio](https://ankupathak.github.io/ "Github home")
