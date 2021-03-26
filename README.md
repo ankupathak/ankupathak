@@ -23,27 +23,27 @@ Web and Mobile Development. Proficient in creating user interfaces,
 writing and testing codes, troubleshooting simple/complex issues,
 and exploring new things.
 
-#Experience
-  ###Encrobytes Technologies
+# Experience
+  ### Encrobytes Technologies
     Full Stack Developer
     January 2020 - February 2021 (1 year 2 months)
     Delhi, India
-  ###Leafy Spirit
+  ### Leafy Spirit
     Developer | Marketer
     January 2018 - 2019 (1 year)
     India
 
-#Education
+# Education
   2018-2020
-  ###Arena Animation
+  ### Arena Animation
   Completed Diploma in Graphics, Web Design & Development (GWDD).
 
   2017-2020
-  ###Delhi University
+  ### Delhi University
   Completed Graducation in B.com Hons.
 
   2016-2017
-  ###Higher Secondary stage of Education
+  ### Higher Secondary stage of Education
   ST.Columbus School
 
   2014-2015
