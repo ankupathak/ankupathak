@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Software Engineer
 New Delhi
 
-Innovative task-driven professional with 1+ years of experience in
+Innovative task-driven professional with 2+ years of experience in
 Web and Mobile Development. Proficient in creating user interfaces,
 writing and testing codes, troubleshooting simple/complex issues,
 and exploring new things.
