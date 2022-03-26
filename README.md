@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Full Stack Developer | PHP | Flutter
+# Software Engineer
 New Delhi
 
 Innovative task-driven professional with 1+ years of experience in
