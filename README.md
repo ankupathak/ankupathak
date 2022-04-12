@@ -28,10 +28,6 @@ and exploring new things.
     Full Stack Developer
     January 2020 - February 2021 (1 year 2 months)
     Delhi, India
-  ### Leafy Spirit
-    Developer | Marketer
-    January 2018 - 2019 (1 year)
-    India
 
 # Education
   2018-2020
