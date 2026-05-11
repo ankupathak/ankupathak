@@ -68,5 +68,5 @@ Software Development Engineer with 4+ years of experience developing and maintai
 
  # How to reach me 
   ###### [Linkedin](www.linkedin.com/in/ankupathak/ "Linkedin")
-  ###### [Linkedin](https://leetcode.com/u/ankupathak/ "Leetcode")
+  ###### [Leetcode](https://leetcode.com/u/ankupathak/ "Leetcode")
   ###### [Portfolio](https://ankupathak.github.io/ "Portfolio")
