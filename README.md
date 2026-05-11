@@ -15,19 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Software Engineer
+# Software Development Engineer
 New Delhi
 
-Innovative task-driven professional with 2+ years of experience in
-Web and Mobile Development. Proficient in creating user interfaces,
-writing and testing codes, troubleshooting simple/complex issues,
-and exploring new things.
+Software Development Engineer with 4+ years of experience developing and maintaining web applications using React.js, Node.js, and MySQL. Currently transitioning toward backend-focused development with Java and Spring Boot, with hands-on experience in REST API development, scalable architecture, and performance optimization.
 
+# Skills
+  ### Programming Languages:
+    Core Java, Spring Boot, React.js, Node.js, PhP, Typescript
+  ### Tools:
+    Git, GitHub, CI/CD, Rest APIs
+  ### Databases:
+    MySQL, MongoDB, Redis
+  ### Platforms:
+    AWS Cloud (EC2, S3, Lambda, Security Groups, VPC)
+  ### Methodologies:
+    Microservices, Agile Methodology, SOLID Principles, Data Structures and Algorithms
 # Experience
+  ### Leafy Spirit
+    Full Stack Developer
+    April 2022 - October 2025
+    Delhi, India
+  ### Internshala
+    SDE Intern
+    November 2021 - March 2022
+    Gurugram,HR, India
+  ### WeBeeSocial
+    Web Developer
+    April 2021 - October 2021
+    Saket,DL, India
   ### Encrobytes Technologies
     Full Stack Developer
-    January 2020 - February 2021 (1 year 2 months)
-    Delhi, India
+    January 2020 - February 2021
+    Faridabad,HR, India
 
 # Education
   2018-2020
@@ -47,7 +67,6 @@ and exploring new things.
   Army Public School Bolarum
 
  # How to reach me 
-  ###### [Linkedin](https://www.linkedin.com/in/anku-pathak-b82710194/ "Linkedin")
-  ###### [Facebook](https://www.facebook.com/profile.php?id=100005592196498 "Facebook")
-  ###### [Instagram](https://www.instagram.com/the_best_ever_me/ "Instagram")
+  ###### [Linkedin](www.linkedin.com/in/ankupathak/ "Linkedin")
+  ###### [Linkedin](https://leetcode.com/u/ankupathak/ "Leetcode")
   ###### [Portfolio](https://ankupathak.github.io/ "Portfolio")
