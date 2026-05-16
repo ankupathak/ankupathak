@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Software Development Engineer
 New Delhi
 
-Software Development Engineer with 4+ years of experience developing and maintaining web applications using React.js, Node.js, and MySQL. Currently transitioning toward backend-focused development with Java and Spring Boot, with hands-on experience in REST API development, scalable architecture, and performance optimization.
+Software Development Engineer with 2+ years of industry experience building and maintaining scalable web applications. Additionally gained entrepreneurial experience as a co-founder of an EdTech startup, leading end-to-end product development, deployment, and feature delivery. Currently focused on transitioning into backend development with Java and Spring Boot, with hands-on experience in RESTful APIs, scalable system design, Redis caching, and performance optimization.
 
 # Skills
   ### Programming Languages:
